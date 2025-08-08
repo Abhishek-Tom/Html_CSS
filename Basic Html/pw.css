@@ -1,0 +1,13 @@
+h1{
+    /* height:50%;
+    width:50%; */
+
+    background-color: hsl(143, 96%, 48%);
+     text-align: center; 
+     font-size: xx-large;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color:rgb(64, 239, 239);
+}
